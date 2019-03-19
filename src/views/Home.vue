@@ -2,7 +2,7 @@
   <div class="home">
     <img alt="Vue logo" src="../assets/logo.png">
     <HelloWorld msg="Welcome to Your Vue.js App"/>
-    <h1>Maickell</h1>
+    <h1>Maickell Vilela</h1>
   </div>
 </template>
 
